@@ -24,7 +24,6 @@ We are using a config.ini to deal with authentification. This is more secure and
 *Option B:* open the config.ini in your terminal by entering <code>open config.ini</code> while in the working directory.
 
 ## Usage
-Version 0.0.1 of this package includes the following functionalities. See the [demo notebook](demo.ipynb) to see them in action :)
 * <code>get_user_single</code>: returns a JSON-like user object for a screen name directly from the API
 * <code>User_list</code>: user objects for a list of screen names or user ids
     * <code>.user_list</code>: list of user objects
